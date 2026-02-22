@@ -38,5 +38,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- Email: contact@privacy-security.org
+- Email: obodae@icloud.com
 - GitHub: [obodae](https://github.com/obodae)
